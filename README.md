@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Flask App CI/CD with GitHub Actions
 
 This project demonstrates a dynamic web application using Flask, Docker, and CI/CD via GitHub Actions.
@@ -25,3 +26,8 @@ Make sure to set secrets in GitHub:
 =======
 # flask-ci-cd
 >>>>>>> 7e6bfb9876c1e32a48676c1ccb5332826edc4adc
+=======
+# Flask App CI/CD with GitHub Actions
+
+This is a dynamic Flask app deployed with GitHub Actions and Docker.
+>>>>>>> 490eab21cf0de9c957533b574606f41d9d52356c
