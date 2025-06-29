@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flask App CI/CD with GitHub Actions
 
 This project demonstrates a dynamic web application using Flask, Docker, and CI/CD via GitHub Actions.
@@ -21,3 +22,6 @@ Push to `main` branch triggers workflow:
 Make sure to set secrets in GitHub:
 - `DOCKER_USERNAME`
 - `DOCKER_PASSWORD`
+=======
+# flask-ci-cd
+>>>>>>> 7e6bfb9876c1e32a48676c1ccb5332826edc4adc
